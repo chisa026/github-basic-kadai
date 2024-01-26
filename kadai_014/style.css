@@ -1,0 +1,33 @@
+html{font-size: 20px;}
+body{
+  text-align: center;
+  font-family: "Arial", "Meiryo", sans-serif;
+}
+
+/*以下「MYPLOFILE」の装飾*/
+h1{
+  font-size: 2rem;
+  letter-spacing: 1.2em;
+  text-shadow: 2px 2px 4px gray;
+  border-bottom: solid 3px rgb(115, 115, 114);
+}
+.google-fonts{
+  font-family: 'Josefin Sans', sans-serif;
+}
+.text2{
+  color:rgb(255, 192, 203) ;
+}
+.text1{
+  color: skyblue;
+}
+
+/*以下「名前・血液型・好きな食べ物」の装飾*/
+.textp{
+  color: rgb(255, 192, 203);
+}
+/*以下「生年月日・趣味・理由」の装飾*/
+.texts{
+  color: skyblue;
+}
+
+#parent p{font-weight: bold;}
